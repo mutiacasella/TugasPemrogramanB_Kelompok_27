@@ -1,4 +1,4 @@
-# Waktu Pengisian Baterai Ponsel dengan menggunakan Metode Secant
+# Optimasi Waktu Pengisian Baterai Ponsel Menggunakan Metode Secant
 
 Kelompok 27
 1. Azra Nabila Azzahra (2306161782)
