@@ -5,6 +5,7 @@ Kelompok 27
 2. Mutia Casella (2306202870) 
 3. Siti Amalia Nurfaidah (2306161851)
 4. Alicia (2306161832)
+5. Jesie Tenardi (2306162002)
 
 ## Deskripsi Program
 
